@@ -6,7 +6,7 @@ Domain:JAVA PROGRAMMING
 Duration:July to August    
 Mentor:NEELA SANTHOSH KUMAR 
 
-OVERVIEW OF THE PROJECT
+OVERVIEW OF THE PROJECT   
 PROJECT TITLE:LIBRARY MANAGEMENT SYSTEM
 To develop a comprehensive Library Management System in Java that supports books, magazines, and DVDs, and includes functionalities such as managing overdue fines, searching items, and supporting multiple user roles, we will implement a solution that integrates several features:
 
