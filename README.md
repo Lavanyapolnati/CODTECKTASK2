@@ -1,6 +1,6 @@
 Name:POLNATI LAVANYA JYOTHI  
 Company:CODTECH IT SOLUTIONS 
-ID:CT08DS5420 
-Domain:JAVA PROGRAMMING  
-Duration:July to August  
+ID:CT08DS5420   
+Domain:JAVA PROGRAMMING    
+Duration:July to August    
 Mentor:NEELA SANTHOSH KUMAR 
